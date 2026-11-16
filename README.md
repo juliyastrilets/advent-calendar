@@ -13,6 +13,10 @@ npm run dev
 
 Команды `npm run build`, `npm run lint` и `npm run preview` проверяют, собирают и запускают production-версию проекта.
 
+## Публикация на GitHub Pages
+
+Workflow `.github/workflows/deploy.yml` собирает и публикует сайт после каждого push в `main`. Чтобы включить публикацию, в репозитории откройте **Settings → Pages** и выберите **GitHub Actions** в поле **Source**. После успешного запуска workflow сайт будет доступен по адресу <https://juliyastrilets.github.io/advent-calendar/>.
+
 ## Документация
 
 - [`docs/`](docs/) — документация и ТЗ: [дизайн-спецификация экранов](docs/DESIGN-SPEC.md), концепт-макеты, карты интерактивных зон и [манифест ассетов](docs/asset-manifest.csv).
