@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 941 1672" role="img" aria-label="Annotated mobile interaction map">
+  <image href="../assets/screen-02-room-envelope.png" x="0" y="0" width="941" height="1672" preserveAspectRatio="none"/>
+  <defs><filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#051322" flood-opacity=".75"/></filter></defs>
+<rect x="150" y="1015" width="640" height="376" rx="32" fill="#41D9D0" fill-opacity=".10" stroke="#53E6D5" stroke-width="7"/>
+<circle cx="178" cy="1042" r="29" fill="#53E6D5" stroke="#0A1D33" stroke-width="5"/><text x="178" y="1051" text-anchor="middle" fill="#0A1D33" font-family="Arial,sans-serif" font-size="25" font-weight="700">1</text>
+<g filter="url(#shadow)"><rect x="208" y="956" width="219" height="42" rx="12" fill="#0A1D33" fill-opacity=".92" stroke="#53E6D5" stroke-width="2"/><text x="224" y="984" fill="#F7FBFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">T2  КОНВЕРТ</text></g>
+<text x="62" y="1480" fill="#F7FBFF" font-family="Arial,sans-serif" font-size="20" stroke="#0A1D33" stroke-width="6" paint-order="stroke">Стрелка и подсказка поясняют цель, сами не нажимаются</text>
+</svg>

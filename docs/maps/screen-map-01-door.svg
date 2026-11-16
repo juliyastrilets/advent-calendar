@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 941 1672" role="img" aria-label="Annotated mobile interaction map">
+  <image href="../assets/screen-01-door-paimon.png" x="0" y="0" width="941" height="1672" preserveAspectRatio="none"/>
+  <defs><filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#051322" flood-opacity=".75"/></filter></defs>
+<rect x="68" y="12" width="805" height="1644" rx="24" fill="#41D9D0" fill-opacity=".035" stroke="#53E6D5" stroke-width="6" stroke-dasharray="20 14"/>
+<g filter="url(#shadow)"><rect x="88" y="28" width="253" height="42" rx="12" fill="#0A1D33" fill-opacity=".92" stroke="#53E6D5" stroke-width="2"/><text x="104" y="56" fill="#F7FBFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">T1  ВСЯ ДВЕРЬ</text></g>
+<rect x="104" y="730" width="150" height="385" rx="72" fill="#FFD66B" fill-opacity=".12" stroke="#FFD66B" stroke-width="7"/>
+<circle cx="179" cy="738" r="29" fill="#FFD66B" stroke="#122440" stroke-width="5"/><text x="179" y="747" text-anchor="middle" fill="#122440" font-family="Arial,sans-serif" font-size="25" font-weight="700">1</text>
+<g filter="url(#shadow)"><rect x="265" y="748" width="202" height="42" rx="12" fill="#0A1D33" fill-opacity=".92" stroke="#FFD66B" stroke-width="2"/><text x="281" y="776" fill="#F7FBFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">T1a  РУЧКА</text></g>
+<text x="88" y="1620" fill="#F7FBFF" font-family="Arial,sans-serif" font-size="20" stroke="#0A1D33" stroke-width="6" paint-order="stroke">Паймон и реплика — декоративные слои; tap передаётся двери</text>
+</svg>

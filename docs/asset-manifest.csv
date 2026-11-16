@@ -1,0 +1,5 @@
+asset_id,file,screen,role,status,recommended_production_split
+A01,assets/screen-01-door-paimon.png,01,Door wreath and Paimon intro concept,Composite reference,Background; door; wreath; Paimon cutout; dialogue; handle glow; snow
+A02,assets/screen-02-room-envelope.png,02,Room fireplace tree and clickable envelope concept,Composite reference,Room background; envelope object; prompt; arrow and glow
+A03,assets/screen-03-letter.png,03,Blurred room parchment letter and CTA concept,Composite reference,Blurred backdrop; parchment panel; ribbon; live copy; CTA
+A04,assets/screen-04-advent-calendar.png,04,31-bag calendar with Paimon Lumine and Aether concept,Composite reference,Calendar background; reusable pouch; live number and state; character cutouts; frame

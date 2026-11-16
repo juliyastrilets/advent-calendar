@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 941 1672" role="img" aria-label="Annotated mobile interaction map">
+  <image href="../assets/screen-03-letter.png" x="0" y="0" width="941" height="1672" preserveAspectRatio="none"/>
+  <defs><filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#051322" flood-opacity=".75"/></filter></defs>
+<rect x="180" y="1354" width="582" height="166" rx="60" fill="#41D9D0" fill-opacity=".10" stroke="#53E6D5" stroke-width="7"/>
+<circle cx="211" cy="1372" r="29" fill="#53E6D5" stroke="#0A1D33" stroke-width="5"/><text x="211" y="1381" text-anchor="middle" fill="#0A1D33" font-family="Arial,sans-serif" font-size="25" font-weight="700">1</text>
+<g filter="url(#shadow)"><rect x="224" y="1298" width="338" height="42" rx="12" fill="#0A1D33" fill-opacity=".92" stroke="#53E6D5" stroke-width="2"/><text x="240" y="1326" fill="#F7FBFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">T3  «ДАВАЙ НАЧНЁМ»</text></g>
+<rect x="58" y="210" width="825" height="1090" rx="38" fill="none" stroke="#B6E9FF" stroke-width="4" stroke-dasharray="14 13"/>
+<g filter="url(#shadow)"><rect x="82" y="228" width="304" height="42" rx="12" fill="#0A1D33" fill-opacity=".92" stroke="#B6E9FF" stroke-width="2"/><text x="98" y="256" fill="#F7FBFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">ПРОКРУТКА ПИСЬМА</text></g>
+</svg>
